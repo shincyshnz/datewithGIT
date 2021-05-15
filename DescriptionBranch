@@ -1,0 +1,9 @@
+** git branch 'branch name' **
+
+eg: git branch feature 
+
+-- to move to the feature branch we can use the following command
+
+** git checkout feature **
+
+the commit done in one branch donot reflect in another
