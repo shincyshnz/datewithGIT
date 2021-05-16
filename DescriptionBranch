@@ -7,3 +7,15 @@ eg: git branch feature
 ** git checkout feature **
 
 the commit done in one branch donot reflect in another
+.........
+
+MERGE
+-------------------
+3 types of merge are there
+
+    1) Fast forward merge
+    --------------------------
+
+        A base branch will be there (for eg: master) and a new branch(eg:feature). then we checkout to base bracnh(master) and merge the other(feature).
+
+
