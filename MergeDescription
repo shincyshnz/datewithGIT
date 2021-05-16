@@ -5,3 +5,5 @@ we have two seperate branches. featrure and master whic moves in two different d
 if we want to combine use recursive merge.
 
 ***Note :  Must edit in two different files. if we edit on same file the conflict merge will occur. ***
+
+This editing done on featureBranch to demonstrate conflict merge.
